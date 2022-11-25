@@ -40,7 +40,6 @@ int UserInput2(string message, string errorMessage)
 }
 ///////////////////////////////////////////////// ВЫчисления возведения в степень
 int ExponentNumbers(int A, int B)
-
 {   
     int exp = A;                                 
     for(int i = 1; i != B; i++)
